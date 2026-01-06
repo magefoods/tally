@@ -1,32 +1,52 @@
 [
-    {
-        "url": "https://github.com",
-        "text": "GitHub",
-        "icon": "fa-brands fa-github fa-lg"
-    },
-    {
-        "url": "https://medium.com",
-        "text": "Medium",
-        "icon": "fa-brands fa-medium fa-lg"
-    },
-    {
-        "url": "https://youtube.com",
-        "text": "YouTube",
-        "icon": "fa-brands fa-youtube fa-lg"
-    },
-    {
-        "url": "https://instagram.com",
-        "text": "Instagram",
-        "icon": "fa-brands fa-instagram fa-lg"
-    },
-    {
-        "url": "https://bsky.app",
-        "text": "Bluesky",
-        "icon": "fa-brands fa-bluesky"
-    },
-    {
-        "url": "https://github.com/nandolawson/LinkLoom",
-        "text": "Download LinkLoom",
-        "icon": "fa-solid fa-download"
-    }
+  {
+    "url": "https://tallyplays.com/en-cad",
+    "text": "Website",
+    "icon": "fa-solid fa-globe fa-lg"
+  },
+  {
+    "url": "https://www.twitch.tv/itstallyplays",
+    "text": "Twitch",
+    "icon": "fa-brands fa-twitch fa-lg"
+  },
+  {
+    "url": "https://bsky.app/profile/tallyplays.bsky.social",
+    "text": "Bluesky",
+    "icon": "fa-brands fa-bluesky fa-lg"
+  },
+  {
+    "url": "https://www.tiktok.com/@itstallyplays",
+    "text": "TikTok",
+    "icon": "fa-brands fa-tiktok fa-lg"
+  },
+  {
+    "url": "https://www.youtube.com/@ItsTallyPlays",
+    "text": "YouTube",
+    "icon": "fa-brands fa-youtube fa-lg"
+  },
+  {
+    "url": "https://www.youtube.com/@TallyLongPlays-x9r",
+    "text": "YouTube Long Plays",
+    "icon": "fa-brands fa-youtube fa-lg"
+  },
+  {
+    "url": "https://discord.com/invite/pKmDD9ErBe",
+    "text": "Discord",
+    "icon": "fa-brands fa-discord fa-lg"
+  },
+  {
+    "url": "https://throne.com/itstallyplays",
+    "text": "Throne",
+    "icon": "fa-solid fa-gift fa-lg"
+  },
+  {
+    "url": "https://ko-fi.com/tallyplays",
+    "text": "Ko-Fi",
+    "icon": "fa-solid fa-mug-hot fa-lg"
+  },
+  {
+    "url": "https://www.instagram.com/tallycolors",
+    "text": "Instagram",
+    "icon": "fa-brands fa-instagram fa-lg"
+  }
 ]
