@@ -6,7 +6,7 @@ Object.assign(linksContainer.style, {
     width: "auto"
 });
 
-// Your specific link data
+// These are YOUR specific links
 const myLinks = [
     { text: "Website", url: "https://tallyplays.com/en-cad", icon: "fa-solid fa-globe" },
     { text: "Twitch", url: "https://www.twitch.tv/itstallyplays", icon: "fa-brands fa-twitch" },
@@ -20,9 +20,8 @@ const myLinks = [
     { text: "Instagram", url: "https://www.instagram.com/tallycolors", icon: "fa-brands fa-instagram" }
 ];
 
-// Build the buttons
 myLinks.forEach(link => {
-    const linkItem = document.createElement("a"); // Changed to 'a' tag for proper linking
+    const linkItem = document.createElement("a"); // Changed to 'a' tag for clicking
     linkItem.href = link.url;
     linkItem.target = "_blank";
     linkItem.innerHTML = `<i class="${link.icon}" aria-hidden="true"></i> ${link.text}`;
@@ -44,7 +43,6 @@ myLinks.forEach(link => {
         transition: "all .5s cubic-bezier(.08, .59, .29, .99)"
     });
 
-    // Hover effects
     linkItem.addEventListener("mouseenter", () => {
         linkItem.style.backgroundColor = "var(--accent)";
         linkItem.style.color = "var(--button)";
